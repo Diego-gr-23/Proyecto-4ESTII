@@ -10,7 +10,7 @@ import os
 class CryptoApp(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Proyecto 4 - Encripción Asimétrica y Firma Digital")
+        self.setWindowTitle("Proyecto 4 - Encriptación Asimétrica y Firma Digital")
         self.resize(900, 600)
 
         # --- 🔹 Estilo CSS aplicado a toda la app ---
