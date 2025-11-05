@@ -31,6 +31,7 @@ class CryptoApp(QWidget):
                     }
                     QTextEdit, QLineEdit {
                         background-color: white;
+                        color: black; /* <-- 🔹 texto negro */
                         border: 1px solid #ccc;
                         border-radius: 6px;
                         padding: 4px;
